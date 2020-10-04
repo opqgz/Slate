@@ -443,7 +443,7 @@ body #app-mount .container-1r6BKw .children-19S4PO h3 {
 }
 body #app-mount .container-1r6BKw .children-19S4PO h3:before {
   display: block;
-  content: "Current Channel";
+  content: "Текущий Канал";
   font-size: var(--font-size-sm);
   font-weight: var(--font-weight-normal);
   color: var(--toolbar-text-muted);
@@ -1939,7 +1939,7 @@ html.platform-win[lang=en-US]:not(.app-focused) body:not(.oldTitleBarEnabled-D8p
 }
 #app-mount .sidebar-2K8pFh .header-2o-2hj h1:before {
   display: block;
-  content: "Current Server";
+  content: "Текущий Сервер";
   font-size: var(--font-size-sm);
   font-weight: var(--font-weight-normal);
   color: var(--toolbar-text-muted);
@@ -9123,7 +9123,7 @@ html.theme-light #app-mount .popout-2iWAc-.force-theme.content-1nP7fx .buttonCon
 }
 #app-mount .layer-3QrUeG[aria-label*=SETTINGS] .contentRegion-3nDuYy::before,
 #app-mount .layer-3QrUeG[aria-label*=RTC] .contentRegion-3nDuYy::before {
-  content: "Options";
+  content: "Настройки";
   display: flex;
   align-items: center;
   border-bottom: 1px solid var(--base-border);
