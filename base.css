@@ -15057,3 +15057,8 @@ body.styledGuildsAsChannels-DNHtg_ #app-mount .guilds-1SWlCJ .guildSeparator-3s6
     opacity: 1;
   }
 }
+
+/*Additional Styles*/
+#app-mount > div.app-1q1i1E.da-app > div > div.layers-3iHuyZ.da-layers.layers-3q14ss.da-layers > div.layer-3QrUeG.da-layer.baseLayer-35bLyl.da-baseLayer > div > nav:nth-child(1) > div.scroller-2TZvBN.da-scroller.none-2Eo-qx.scrollerBase-289Jih {
+  padding-top: 0px !important;
+}
