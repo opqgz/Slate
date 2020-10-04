@@ -2338,7 +2338,7 @@ html.platform-win[lang=en-US]:not(.app-focused) body:not(.oldTitleBarEnabled-D8p
   line-height: normal;
 }
 #app-mount .privateChannels-1nO12o .searchBar-6Kv8R2 button:before {
-  content: "Where would you like to go?";
+  content: "Куда бы вы хотели отправится?";
   font-size: var(--font-size);
 }
 #app-mount .privateChannels-1nO12o .privateChannelsHeaderContainer-3NB1K1 {
